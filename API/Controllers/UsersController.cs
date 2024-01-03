@@ -93,7 +93,7 @@ public class UsersController : BaseApiController
         var permissions = new List<PermissionDto>();
         var userRoles = await _userManager.GetRolesAsync(user);
         foreach (var role in await _roleManager.Roles
-            .Where(r => userRoles.Contains(r.Name))
+            .Where(r => userRoles.Contains(r.Name ?? ""))
             .ToListAsync())
         {
             var roleClaims = await _context.RoleClaims
