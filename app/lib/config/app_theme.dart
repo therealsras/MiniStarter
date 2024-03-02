@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'config.dart';
+import 'colors.dart';
 
 class AppTheme {
   static TextTheme lightTextTheme = TextTheme(

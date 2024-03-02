@@ -24,7 +24,7 @@ class AppModel extends BaseModel {
   static const supportedLanguage = [Locale('en', 'US'), Locale('km', 'KH')];
 
   void initializeApp() async {
-    bool loggedIn = await ref.read(accountModel).isAuthenticated();
+    // bool loggedIn = await ref.read(accountModel).isAuthenticated();
     // if (loggedIn) {
     //   getIt<AppRouter>().push(const AdminLayoutRoute());
     // } else {
