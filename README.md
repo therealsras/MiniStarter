@@ -4,16 +4,16 @@
 
 ## Goals
 
-- The goal of this repository is to previde feature rich and production ready for any project with simple and less code in mind. The MVC architecture will be extensively used for both backend and client project. 
-- This project will be great resources for beginner to intermediate programmer in Asp.Net, Angular and Flutter.
+- The goal of this repository is to provide feature-rich production ready for any project with simple and less code in mind. The MVC architecture will be extensively used for both backend and client projects. 
+- This project will be a great resource for beginner to intermediate Asp.Net, Angular and Flutter programmers.
 
 ## Features
 
-- [x] Built on .NET 7.0
-- [x] API and Client Project Seperation
-- [x] Entitiy Framework Core
+- [x] Built on .NET 8.0
+- [x] API and Client Project Separation
+- [x] Entity Framework Core
 - [x] Simplified Project and Folder Structure based on MVC architecture
-- [x] Supports MSSQL or PosgreSQL (support heroku deploy via github action)
+- [x] Supports MSSQL or PostgreSQL (support Heroku deploy via GitHub action)
 - [x] JSON Localization
 - [x] Cambodia Gazetteer
 - [X] API Versioning
@@ -31,7 +31,7 @@
 - [ ] Hangfire Support
 - [x] File Storage Service
 - [x] SignalR
-- [x] Puppeteer (PDF Download via html)
+- [x] Puppeteer (PDF Download via HTML)
 - [x] Dynamic Mapping
   - [x] Mapster (quick mapping) 
   - [x] AutoMapper
@@ -67,8 +67,8 @@
 - [x] JSON Serialization / JSON and Object Mapping Generation
 - [x] JSON Localization
 - [x] Reactive Form Inspired by Angular
-- [x] UI Role Based Widget Rendering
-- [x] UI Permission Based Widget Rendering
+- [x] UI Role-Based Widget Rendering
+- [x] UI Permission-Based Widget Rendering
 - [x] PDF and Printing
 - [x] Datatable with Export PDF, Printing, CSV, Excel, CopyClipboard
 - [x] AsyncDatatable (pagination filter server side)
