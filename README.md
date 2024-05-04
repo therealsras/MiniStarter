@@ -1,11 +1,12 @@
 # MiniStarter
- - [x] Server: Asp.Net Core Web API
+ - [x] Server: Asp.Net Web API
  - [x] Client: Angular & Flutter
 
 ## Goals
 
 - The goal of this repository is to provide feature-rich production ready for any project with simple and less code in mind. The MVC architecture will be extensively used for both backend and client projects. 
 - This project will be a great resource for beginner to intermediate Asp.Net, Angular and Flutter programmers.
+
 
 ## Features
 
